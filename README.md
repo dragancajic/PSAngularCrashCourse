@@ -1,4 +1,4 @@
-# Plualsight's Angular Crash Course
+# Pluralsight's Angular Crash Course
 
 Enter new weight on page, default to current date
 Highlight if they put in a past date
